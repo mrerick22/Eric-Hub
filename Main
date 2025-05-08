@@ -23,7 +23,7 @@ redzlib:SetTheme("Darker")
 
 -- Aba Funções
 local Funcoes = Window:MakeTab({
-    Title = "Funções",
+    Title = "Functions",
     Icon = "rbxassetid://4483345998"
 })
 
